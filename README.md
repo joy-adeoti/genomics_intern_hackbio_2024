@@ -1,3 +1,18 @@
-The code here are generated from the various project embarked on in the four stages of the internship.
-The commit will be from my various interaction with the project.
-Just to clarify this is my personal working space for the internship.
+Pipeline workflow
+
+Check the the requirement text for the required tools
+
+
+Run the setup file (setup.sh) by running the command to install tools
+
+
+
+
+Run the script.sh to execute the pipeline
+
+The following files and subdirectories will be generated
+
+BAMS
+SAM
+VCF
+data: data/fastq, data/ref data/fastq/trimmed_reads
