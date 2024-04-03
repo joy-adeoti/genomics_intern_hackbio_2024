@@ -1,8 +1,6 @@
 #list of tools for NGS
 fastqc
-multiqc
-*fastp
+fastp
 bwa
 samtools
-freebayes
 bcftools
